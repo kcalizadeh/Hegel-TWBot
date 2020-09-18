@@ -1,0 +1,1 @@
+This is a bot for generating tweets. The tweets are taken at random from sentences in Hegel's corpus.
