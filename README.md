@@ -1,4 +1,4 @@
-This is a bot for generating tweets. The tweets are taken at random from sentences in Hegel's corpus. Currently the books that have been digested by the bot are the three-volume set containing his lectures on the history of philosophy.
+This is a bot for generating tweets taken at random from sentences in Hegel's corpus. Currently the books that have been digested by the bot are the three-volume set containing his lectures on the history of philosophy.
 
 There is a csv that holds all the quotes. Two notebooks are used - one cleans Project Gutenberg's .txt versions of Hegel's works, and the other sends the tweets themselves. 
 
